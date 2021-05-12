@@ -9,6 +9,6 @@ For one of my final projects at Penn, I built a motion prediction algorithm to p
 
 Some of the results of our system are below. Blue lines are our predicted trajectory; pink lines are the ground truth.
 
-![Output1](./outputs/SuperNetV2Output2.png.jpg?raw=true "Title")
-![Output2](./outputs/SuperNetV2Output1.png.jpg?raw=true "Title")
+![Output1](./outputs/SuperNetV2Output2.png.jpg "Title")
+![Output2](./outputs/SuperNetV2Output1.png.jpg "Title")
 
