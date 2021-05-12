@@ -1,5 +1,7 @@
 # Autonomous-Vehicle-Motion-Predicition
 
+Note: the code in this repo is currently a bit messy. I'll be cleaning it up in the next few weeks.
+
 For one of my final projects at Penn, I built a motion prediction algorithm to predict vehicle trajectories. We implemented and tested three deep learning algorithms:
 
 * A convolutional neural network with an XCeption71 backbone that takes in rasterized birds-eye-view images to predict trajectories
