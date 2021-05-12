@@ -8,7 +8,7 @@ For one of my final projects at Penn, I built a motion prediction algorithm to p
 * An implementation of [Convolutional Social Pooling](https://arxiv.org/abs/1805.06771), which seeks to model vehicle-to-vehicle interactions in order to predict trajectories
 * A combination of the two in the network we called "SuperNet", where inputs from both networks were combined to output a prediction with greater accuracy.
 
-Our data came from the [Lyft Motion Prediction Dataset](https://self-driving.lyft.com/level5/prediction/)
+Our data came from the [Lyft Motion Prediction Dataset](https://self-driving.lyft.com/level5/prediction/).
 
 Some of the results of our system are below. Blue lines are our predicted trajectory; pink lines are the ground truth.
 
